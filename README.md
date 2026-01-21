@@ -18,4 +18,4 @@ A modern React application scaffolded with Vite, styled using Tailwind CSS and d
 
    ```sh
 
-npm install react@19.1.0 react-dom@19.1.0 react-router-dom@7.6.0 tailwindcss@4.1.7 @tailwindcss/vite@4.1.7 localforage@1.10.0 match-sorter@8.0.1 prop-types@15.8.1 sort-by@1.2.0 -D vite@6.3.5 @vitejs/plugin-react@4.4.1 @types/react@19.1.2 @types/react-dom@19.1.2 eslint@9.25.0 @eslint/js@9.25.0 eslint-plugin-react-hooks@5.2.0 eslint-plugin-react-refresh@0.4.19 globals@16.0.0 daisyui@5.0.35
+npm install react@19.2.2 react-dom@19.2.3 react-router-dom@7.9.1 tailwindcss@4.1.13 @tailwindcss/vite@4.1.13 localforage@1.10.0 match-sorter@8.1.0 prop-types@15.8.1 sort-by@1.2.0 react-icons@5.3.0 react-toastify@11.0.5 -D vite@7.3.0 @vitejs/plugin-react@5.1.2 @types/react@19.2.8 @types/react-dom@19.2.3 eslint@9.39.1 @eslint/js@9.39.1 eslint-plugin-react-hooks@7.0.1 eslint-plugin-react-refresh@0.4.23 globals@16.4.0 daisyui@5.5.14
