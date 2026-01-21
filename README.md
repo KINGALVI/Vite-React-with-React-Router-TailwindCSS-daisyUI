@@ -1,6 +1,6 @@
 # Vite React with tailwind CSS & daisyUI
 
-A modern React application scaffolded with Vite, styled using Tailwind CSS and daisyUI, and powered by essential developer tools for learning and scalability.
+A modern React application scaffolded with Vite, styled using Tailwind CSS and daisyUI powered by essential developer tools for learning and scalability.
 
 If you’re new to React and frustrated with setup, this template gives you a clean, guided, and reliable way to start building modern apps quickly!!
 
